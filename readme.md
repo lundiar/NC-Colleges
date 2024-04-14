@@ -1,44 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Colleges in North Carolina, 2024</title>
-    	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.0/dist/leaflet.css"/>
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css">
+## <center> NC Colleges Compared to County Population </center>
+##### <center>Autumn Lundi<center>
+<br>
 
-<style>
- 	html, body, #map { width: 100%; height: 100%; margin: 0; background: #fff; }
-</style>
 
-<link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet">
+This map uses data from [Wikipedia] (https://en.wikipedia.org/wiki/List_of_colleges_and_universities_in_North_Carolina) to place the datapoints representing each college. The data points are then color coded by the type of control the college is under: Public, Private, or Community. [NC One Map] (https://www.nconemap.gov/datasets/9728285994804c8b9f20ce58bae45899/explore) provided the GeoJSON for the county polygons and the population data was collected from [North Carolina Demographics] (https://www.northcarolina-demographics.com/counties_by_population). This map uses a Leaflet plug-in for the basemap and for style functions.
 
-<script src="https://unpkg.com/leaflet@1.7.0/dist/leaflet.js">
-    </script>
-	
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js">
-    </script>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js">
-    </script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/1.3.4/chroma.min.js">
-    </script>
-
-</head>
-
-<body>
-var mymap = L.map('map', {
-    center: [35.5946,-82.5540], //note that we've centered the map to downtown AVL
-    zoom: 13,
-    maxZoom: 18,
-    detectRetina: true // detect whether the screen is high resolution or not.
-});
- 
-// 2. Add a base map.
-L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png').addTo(mymap);
-<div id="map"></div>
-<script>
- 
-</script>
-</body>
-</html>
+Click on the data points to view the control status. Find the legend in the top right corner and zoom using the buttons at the top left. 

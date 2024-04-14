@@ -1,0 +1,247 @@
+{"type":"FeatureCollection","features":[
+
+    {"type":"Feature","properties":{"College":"Appalachian State University","Control":"Public"},"geometry":{"type":"Point","coordinates":[-81.68431855,36.21363802]}},
+
+    {"type":"Feature","properties":{"College":"Barber-Scotia College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-80.58569312,35.40683905]}},
+
+    {"type":"Feature","properties":{"College":"Barton College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-77.91314058,35.7368147]}},
+
+    {"type":"Feature","properties":{"College":"Belmont Abbey College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-81.04450634,35.26142229]}},
+
+    {"type":"Feature","properties":{"College":"Bennett College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-79.77916772,36.06808881]}},
+
+    {"type":"Feature","properties":{"College":"Brevard College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-82.7294401,35.23691046]}},
+
+    {"type":"Feature","properties":{"College":"Cabarrus College of Health Sciences","Control":"Private"},"geometry":{"type":"Point","coordinates":[-80.60100806,35.4404445]}},
+
+    {"type":"Feature","properties":{"College":"Campbell University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-78.73980935,35.40837561]}},
+
+    {"type":"Feature","properties":{"College":"Carolina Christian College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-80.25621092,36.1463014]}},
+
+    {"type":"Feature","properties":{"College":"Carolina College of Biblical Studies","Control":"Private"},"geometry":{"type":"Point","coordinates":[-78.9395,35.0513]}},
+
+    {"type":"Feature","properties":{"College":"Carolina University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-80.24993948,36.08819798]}},
+
+    {"type":"Feature","properties":{"College":"Carolina College of Health Sciences","Control":"Public"},"geometry":{"type":"Point","coordinates":[-80.92755114,35.18200895]}},
+
+    {"type":"Feature","properties":{"College":"Catawba College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-80.48121178,35.68974195]}},
+
+    {"type":"Feature","properties":{"College":"Charlotte Christian College and Theological Seminary","Control":"Private"},"geometry":{"type":"Point","coordinates":[-80.73722181,35.1598017]}},
+
+    {"type":"Feature","properties":{"College":"Chowan University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-77.09780913,36.4336066]}},
+
+    {"type":"Feature","properties":{"College":"Davidson College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-80.84236235,35.50168382]}},
+
+    {"type":"Feature","properties":{"College":"Duke University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-78.93824469,36.00167751]}},
+
+    {"type":"Feature","properties":{"College":"East Carolina University","Control":"Public"},"geometry":{"type":"Point","coordinates":[-77.36392727,35.5856767]}},
+
+    {"type":"Feature","properties":{"College":"Elizabeth City State University","Control":"Public"},"geometry":{"type":"Point","coordinates":[-76.21391739,36.28046003]}},
+
+    {"type":"Feature","properties":{"College":"Elon University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-79.50230589,36.10294576]}},
+
+    {"type":"Feature","properties":{"College":"Fayetteville State University","Control":"Public"},"geometry":{"type":"Point","coordinates":[-78.89253788,35.07438743]}},
+
+    {"type":"Feature","properties":{"College":"Gardner-Webb University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-81.67068717,35.24780528]}},
+
+    {"type":"Feature","properties":{"College":"Greensboro College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-79.80029002,36.07119956]}},
+
+    {"type":"Feature","properties":{"College":"Guilford College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-79.88866605,36.09200811]}},
+
+    {"type":"Feature","properties":{"College":"High Point University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-79.99755576,35.97671175]}},
+
+    {"type":"Feature","properties":{"College":"Hood Theological Seminary","Control":"Private"},"geometry":{"type":"Point","coordinates":[-80.480237,35.64459551]}},
+
+    {"type":"Feature","properties":{"College":"Johnson & Wales University - Charlotte","Control":"Private"},"geometry":{"type":"Point","coordinates":[-80.85063802,35.23348725]}},
+
+    {"type":"Feature","properties":{"College":"Johnson C. Smith University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-80.85573449,35.24356035]}},
+
+    {"type":"Feature","properties":{"College":"Lees-McRae College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-81.87509041,36.16211917]}},
+
+    {"type":"Feature","properties":{"College":"Lenoir-Rhyne University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-81.32622246,35.74156843]}},
+
+    {"type":"Feature","properties":{"College":"Livingstone College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-80.48479561,35.67163055]}},
+
+    {"type":"Feature","properties":{"College":"Manna University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-78.96130829,35.05934332]}},
+
+    {"type":"Feature","properties":{"College":"Mars Hill University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-82.55169952,35.82681688]}},
+
+    {"type":"Feature","properties":{"College":"Meredith College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-78.68862581,35.79838204]}},
+
+    {"type":"Feature","properties":{"College":"Methodist University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-78.86713203,35.12980046]}},
+
+    {"type":"Feature","properties":{"College":"Mid-Atlantic Christian University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-76.21708391,36.30472105]}},
+
+    {"type":"Feature","properties":{"College":"Montreat College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-82.29747625,35.64667579]}},
+
+    {"type":"Feature","properties":{"College":"North Carolina A&T State University","Control":"Public"},"geometry":{"type":"Point","coordinates":[-79.77287056,36.08102219]}},
+
+    {"type":"Feature","properties":{"College":"North Carolina Central University","Control":"Public"},"geometry":{"type":"Point","coordinates":[-78.89959499,35.97547445]}},
+
+    {"type":"Feature","properties":{"College":"North Carolina State University","Control":"Public"},"geometry":{"type":"Point","coordinates":[-78.68125558,35.78528328]}},
+
+    {"type":"Feature","properties":{"College":"North Carolina Wesleyan University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-77.77422386,36.01883167]}},
+
+    {"type":"Feature","properties":{"College":"Pfeiffer University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-80.28333819,35.48445145]}},
+
+    {"type":"Feature","properties":{"College":"Queens University of Charlotte","Control":"Private"},"geometry":{"type":"Point","coordinates":[-80.83290266,35.1887926]}},
+
+    {"type":"Feature","properties":{"College":"Saint Augustine's University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-78.61891415,35.78793118]}},
+
+    {"type":"Feature","properties":{"College":"Salem College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-80.24126621,36.08768203]}},
+
+    {"type":"Feature","properties":{"College":"Shaw University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-78.63806567,35.77130415]}},
+
+    {"type":"Feature","properties":{"College":"Shepherds Theological Seminary","Control":"Private"},"geometry":{"type":"Point","coordinates":[-78.74226684,35.74415623]}},
+
+    {"type":"Feature","properties":{"College":"Southeastern Baptist Theological Seminary","Control":"Private"},"geometry":{"type":"Point","coordinates":[-78.51245002,35.98095409]}},
+
+    {"type":"Feature","properties":{"College":"Southeastern Free Will Baptist College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-78.41658098,35.80000644]}},
+
+    {"type":"Feature","properties":{"College":"St. Andrews University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-79.48101212,34.74320839]}},
+
+    {"type":"Feature","properties":{"College":"University of Mount Olive","Control":"Private"},"geometry":{"type":"Point","coordinates":[-78.07102969,35.20800409]}},
+
+    {"type":"Feature","properties":{"College":"University of North Carolina at Asheville","Control":"Public"},"geometry":{"type":"Point","coordinates":[-82.56650638,35.61721825]}},
+
+    {"type":"Feature","properties":{"College":"University of North Carolina at Chapel Hill","Control":"Public"},"geometry":{"type":"Point","coordinates":[-79.04695095,35.90512077]}},
+
+    {"type":"Feature","properties":{"College":"University of North Carolina at Charlotte","Control":"Public"},"geometry":{"type":"Point","coordinates":[-80.73513173,35.30758325]}},
+
+    {"type":"Feature","properties":{"College":"University of North Carolina at Greensboro","Control":"Public"},"geometry":{"type":"Point","coordinates":[-79.81025002,36.06912249]}},
+
+    {"type":"Feature","properties":{"College":"University of North Carolina at Pembroke","Control":"Public"},"geometry":{"type":"Point","coordinates":[-79.20055548,34.69006623]}},
+
+    {"type":"Feature","properties":{"College":"University of North Carolina School of the Arts","Control":"Public"},"geometry":{"type":"Point","coordinates":[-80.23690908,36.07651746]}},
+
+    {"type":"Feature","properties":{"College":"University of North Carolina at Wilmington","Control":"Public"},"geometry":{"type":"Point","coordinates":[-77.86959785,34.22400892]}},
+
+    {"type":"Feature","properties":{"College":"Wake Forest University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-80.27926188,36.13565333]}},
+
+    {"type":"Feature","properties":{"College":"Warren Wilson College","Control":"Private"},"geometry":{"type":"Point","coordinates":[-82.44227374,35.61130917]}},
+
+    {"type":"Feature","properties":{"College":"Western Carolina University","Control":"Public"},"geometry":{"type":"Point","coordinates":[-83.18628073,35.30917715]}},
+
+    {"type":"Feature","properties":{"College":"William Peace University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-78.63741782,35.78964636]}},
+
+    {"type":"Feature","properties":{"College":"Wingate University","Control":"Private"},"geometry":{"type":"Point","coordinates":[-80.44388566,34.98595647]}},
+
+    {"type":"Feature","properties":{"College":"Winston-Salem State University","Control":"Public"},"geometry":{"type":"Point","coordinates":[-80.2249524,36.08997419]}},
+
+    {"type":"Feature","properties":{"College":"Alamance Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-79.35752545,36.06635083]}},
+
+    {"type":"Feature","properties":{"College":"Asheville-Buncombe Technical Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-82.55555726,35.57083874]}},
+
+    {"type":"Feature","properties":{"College":"Beaufort County Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-76.96528389,35.53388512]}},
+
+    {"type":"Feature","properties":{"College":"Bladen Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-78.73143429,34.64467586]}},
+
+    {"type":"Feature","properties":{"College":"Blue Ridge Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-82.42185118,35.30628724]}},
+
+    {"type":"Feature","properties":{"College":"Brunswick Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-78.22964785,34.0390524]}},
+
+    {"type":"Feature","properties":{"College":"Caldwell Community College & Technical Institute","Control":"Community"},"geometry":{"type":"Point","coordinates":[-81.48389516,35.85479728]}},
+
+    {"type":"Feature","properties":{"College":"Cape Fear Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-77.94910054,34.24027784]}},
+
+    {"type":"Feature","properties":{"College":"Carteret Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-76.75536456,34.72398682]}},
+
+    {"type":"Feature","properties":{"College":"Catawba Valley Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-81.28799684,35.70001898]}},
+
+    {"type":"Feature","properties":{"College":"Central Carolina Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-79.14517056,35.47131803]}},
+
+    {"type":"Feature","properties":{"College":"Central Piedmont Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-80.82934543,35.21709934]}},
+
+    {"type":"Feature","properties":{"College":"Clevelend Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-81.49241571,35.28134894]}},
+
+    {"type":"Feature","properties":{"College":"College of the Albemarle","Control":"Community"},"geometry":{"type":"Point","coordinates":[-76.22026015,36.3251203]}},
+
+    {"type":"Feature","properties":{"College":"Coastal Carolina Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-77.38386981,34.77246028]}},
+
+    {"type":"Feature","properties":{"College":"Craven Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-77.10338145,35.11185186]}},
+
+    {"type":"Feature","properties":{"College":"Davidson-Davie Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-80.18221131,35.86610971]},"id":80},
+
+    {"type":"Feature","properties":{"College":"Durham Technical Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-78.88219719,35.97393458]}},
+
+    {"type":"Feature","properties":{"College":"Edgecombe Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-77.57328036,35.87915194]}},
+
+    {"type":"Feature","properties":{"College":"Fayetteville Technical Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-78.92581666,35.06673676]}},
+
+    {"type":"Feature","properties":{"College":"Forsyth Technical Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-80.27179424,36.06887629]}},
+
+    {"type":"Feature","properties":{"College":"Gaston College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-81.19116131,35.30984919]}},
+
+    {"type":"Feature","properties":{"College":"Guilford Technical Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-79.91916806,35.99831662]}},
+
+    {"type":"Feature","properties":{"College":"Halifax Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-77.61610615,36.42736862]}},
+
+    {"type":"Feature","properties":{"College":"Haywood Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-82.92791064,35.52614756]}},
+
+    {"type":"Feature","properties":{"College":"Isothermal Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-81.91379826,35.33836744]}},
+
+    {"type":"Feature","properties":{"College":"James Sprunt Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-77.97704074,34.94714287]}},
+
+    {"type":"Feature","properties":{"College":"Johnston Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-78.33100815,35.50225279]}},
+
+    {"type":"Feature","properties":{"College":"Lenoir Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-77.5711071,35.23401271]}},
+
+    {"type":"Feature","properties":{"College":"Louisburg College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-78.29898971,36.10517216]}},
+
+    {"type":"Feature","properties":{"College":"Martin Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-77.09489975,35.83656984]}},
+
+    {"type":"Feature","properties":{"College":"Mayland Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-82.01668913,35.93444113]}},
+
+    {"type":"Feature","properties":{"College":"McDowell Technical Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-81.9619725,35.65597017]}},
+
+    {"type":"Feature","properties":{"College":"Mitchell Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-80.89413458,35.78324219]}},
+
+    {"type":"Feature","properties":{"College":"Montgomery Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-79.86981691,35.36702348]}},
+
+    {"type":"Feature","properties":{"College":"Nash Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-77.89965393,35.97769463]}},
+
+    {"type":"Feature","properties":{"College":"Pamlico Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-76.83396707,35.06852041]}},
+
+    {"type":"Feature","properties":{"College":"Piedmont Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-78.98042864,36.43200601]}},
+
+    {"type":"Feature","properties":{"College":"Pitt Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-77.40679881,35.54972575]}},
+
+    {"type":"Feature","properties":{"College":"Randolph Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-79.93473579,35.89385757]}},
+
+    {"type":"Feature","properties":{"College":"Richmond Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-79.71017458,34.90339318]}},
+
+    {"type":"Feature","properties":{"College":"Roanoke-Chowan Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-77.02293626,36.32568408]}},
+
+    {"type":"Feature","properties":{"College":"Robeson Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-79.00651702,34.67725696]}},
+
+    {"type":"Feature","properties":{"College":"Rockingham Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-79.75553002,36.38795097]}},
+
+    {"type":"Feature","properties":{"College":"Rowan-Cabarrus Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-80.65947135,35.43771954]}},
+
+    {"type":"Feature","properties":{"College":"Sandhills Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-79.40530121,35.2194075]}},
+
+    {"type":"Feature","properties":{"College":"Sampson Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-78.36018419,34.99068527]}},
+
+    {"type":"Feature","properties":{"College":"South Piedmont Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-80.21134561,35.00089044]}},
+
+    {"type":"Feature","properties":{"College":"Southeastern Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-78.78218715,34.33183457]}},
+
+    {"type":"Feature","properties":{"College":"Southwestern Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-83.20715271,35.34879552]}},
+
+    {"type":"Feature","properties":{"College":"Stanly Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-80.23607092,35.33935811]}},
+
+    {"type":"Feature","properties":{"College":"Surry Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-80.71604602,36.3854388]}},
+
+    {"type":"Feature","properties":{"College":"Tri-County Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-83.96568578,35.06785298]}},
+
+    {"type":"Feature","properties":{"College":"Vance-Granville Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-78.48818699,36.32463281]}},
+
+    {"type":"Feature","properties":{"College":"Wake Technical Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-78.70471368,35.65171553]}},
+
+    {"type":"Feature","properties":{"College":"Wayne Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-77.94549772,35.40333453]}},
+
+    {"type":"Feature","properties":{"College":"Western Piedmont Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-81.6877059,35.72251025]}},
+
+    {"type":"Feature","properties":{"College":"Wilkes Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-81.18258758,36.13645045]}},
+
+    {"type":"Feature","properties":{"College":"Wilson Community College","Control":"Community"},"geometry":{"type":"Point","coordinates":[-77.89584529,35.73034964]}}]}
